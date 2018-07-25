@@ -1,0 +1,2 @@
+C:\Users\asrikan\UnityProjects\SubscriptionSample\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;arm
+C:\Users\asrikan\UnityProjects\SubscriptionSample\App\SubscriptionSample\SubscriptionSample.csproj;arm

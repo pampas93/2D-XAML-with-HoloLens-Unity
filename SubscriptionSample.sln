@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubscriptionSample", "SubscriptionSample.csproj", "{AEB56C21-399D-4B48-FEE6-43E0AEE9FD96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubscriptionSample.Editor", "SubscriptionSample.Editor.csproj", "{931D91D1-DC0C-6D85-DF20-C4B405D0FF14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB56C21-399D-4B48-FEE6-43E0AEE9FD96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB56C21-399D-4B48-FEE6-43E0AEE9FD96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB56C21-399D-4B48-FEE6-43E0AEE9FD96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB56C21-399D-4B48-FEE6-43E0AEE9FD96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931D91D1-DC0C-6D85-DF20-C4B405D0FF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931D91D1-DC0C-6D85-DF20-C4B405D0FF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931D91D1-DC0C-6D85-DF20-C4B405D0FF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931D91D1-DC0C-6D85-DF20-C4B405D0FF14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
